@@ -158,4 +158,7 @@ Double-clicking any word will view its definition in a small pop-up bubble.
 Now you never have to leave what you are reading to search for the meaning of the words you don't yet know.
 
 Extension is available for [Google Chrome](https://chrome.google.com/webstore/detail/dictionary-anywhere/hcepmnlphdfefjddkgkblcjkbpbpemac/) and [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/dictionary-anyvhere).
+
+Since the Google Chrome extension Dictionary Anywhere may soon no longer be supported on the Chrome Web Store, you can try the [Vocabulary Builder App - Lexify](https://chromewebstore.google.com/detail/vocabulary-builder-app-le/pjggfkbajajnpenebdpafdadkgpgkaag). This extension uses the Free Dictionary API and displays a card with synonyms, definitions, and pronunciations when you click on a word.
+
 ##### Enjoy Reading Uninterrupted!!!
